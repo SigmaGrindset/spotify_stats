@@ -1,0 +1,3382 @@
+{
+  "playlists": [
+    {
+      "name": "Beef",
+      "lastModifiedDate": "2024-12-03",
+      "items": [
+        {
+          "track": {
+            "trackName": "Like That",
+            "artistName": "Future",
+            "albumName": "WE DON'T TRUST YOU",
+            "trackUri": "spotify:track:2tudvzsrR56uom6smgOcSf"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-05"
+        },
+        {
+          "track": {
+            "trackName": "Push Ups",
+            "artistName": "Drake",
+            "albumName": "Push Ups",
+            "trackUri": "spotify:track:3eh51r6rFWAlGQRlHx9QnQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-05"
+        },
+        {
+          "track": {
+            "trackName": "euphoria",
+            "artistName": "Kendrick Lamar",
+            "albumName": "euphoria",
+            "trackUri": "spotify:track:77DRzu7ERs0TX3roZcre7Q"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-05"
+        },
+        {
+          "track": null,
+          "episode": {
+            "episodeName": "6:16 in LA - Kendrick Lamar (Drake Diss Track)",
+            "showName": "Kendrick Vs Drake",
+            "episodeUri": "spotify:episode:47931S194Tn7FqqGFJR80F"
+          },
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-05"
+        },
+        {
+          "track": null,
+          "episode": {
+            "episodeName": "6:16 in LA",
+            "showName": "serigathe2nd",
+            "episodeUri": "spotify:episode:7MNrZpPIS8oMJmGr7cyYYB"
+          },
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-08"
+        },
+        {
+          "track": null,
+          "episode": {
+            "episodeName": "6:16 in Los Angeles (Drake Diss)",
+            "showName": "Bits of Infinity ",
+            "episodeUri": "spotify:episode:0qTervLQMJkFoclkuUtwJP"
+          },
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-11"
+        },
+        {
+          "track": {
+            "trackName": "Family Matters",
+            "artistName": "Drake",
+            "albumName": "Family Matters",
+            "trackUri": "spotify:track:1wFFFzJ5EsKbBWZriAcubN"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-07"
+        },
+        {
+          "track": {
+            "trackName": "meet the grahams",
+            "artistName": "Kendrick Lamar",
+            "albumName": "meet the grahams",
+            "trackUri": "spotify:track:4S8PxReB1UiDR2F5x1lyIR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-05"
+        },
+        {
+          "track": {
+            "trackName": "Not Like Us",
+            "artistName": "Kendrick Lamar",
+            "albumName": "Not Like Us",
+            "trackUri": "spotify:track:6AI3ezQ4o3HUoP6Dhudph3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-05"
+        },
+        {
+          "track": null,
+          "episode": {
+            "episodeName": "THE HEART PART 6",
+            "showName": "serigathe2nd",
+            "episodeUri": "spotify:episode:1LflSyD0QApFGTueNyh8Xv"
+          },
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-07"
+        },
+        {
+          "track": null,
+          "episode": {
+            "episodeName": "The Heart Part 6",
+            "showName": "1x4uuman",
+            "episodeUri": "spotify:episode:6t7gl1cijTtmuQE7704W4L"
+          },
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-12"
+        },
+        {
+          "track": null,
+          "episode": {
+            "episodeName": "The Heart Part 6 (Drake)",
+            "showName": "yad._wlr ",
+            "episodeUri": "spotify:episode:5Rx7yBkfOkXyeVkSsHQu2x"
+          },
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-10-28"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Ritualno",
+      "lastModifiedDate": "2023-07-29",
+      "items": [
+        {
+          "track": {
+            "trackName": "Drowning (feat. Kodak Black)",
+            "artistName": "A Boogie Wit da Hoodie",
+            "albumName": "The Bigger Artist",
+            "trackUri": "spotify:track:1f5cbQtDrykjarZVrShaDI"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-13"
+        },
+        {
+          "track": {
+            "trackName": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "artistName": "Post Malone",
+            "albumName": "Spider-Man: Into the Spider-Verse",
+            "trackUri": "spotify:track:3KkXRkHbMCARz0aVfEt68P"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-13"
+        },
+        {
+          "track": {
+            "trackName": "I Wonder",
+            "artistName": "Kanye West",
+            "albumName": "Graduation",
+            "trackUri": "spotify:track:7rbECVPkY5UODxoOUVKZnA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-13"
+        },
+        {
+          "track": {
+            "trackName": "Ballin' (with Roddy Ricch)",
+            "artistName": "Mustard",
+            "albumName": "Perfect Ten",
+            "trackUri": "spotify:track:3QzAOrNlsabgbMwlZt7TAY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-13"
+        },
+        {
+          "track": {
+            "trackName": "What A Wonderful World",
+            "artistName": "Louis Armstrong",
+            "albumName": "What A Wonderful World",
+            "trackUri": "spotify:track:29U7stRjqHU6rMiS8BfaI9"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-14"
+        },
+        {
+          "track": {
+            "trackName": "Tired",
+            "artistName": "CJ SO COOL",
+            "albumName": "Tired",
+            "trackUri": "spotify:track:66QSf0BtY2z75P9MWbNIUG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-29"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Chill",
+      "lastModifiedDate": "2023-06-03",
+      "items": [
+        {
+          "track": {
+            "trackName": "this is for my girl",
+            "artistName": "Shiloh Dynasty",
+            "albumName": "this is for my girl",
+            "trackUri": "spotify:track:72GCJhZVwFG3cHIO7BF1Pq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "would you be my baby",
+            "artistName": "Enzo Iwamura",
+            "albumName": "would you be my baby",
+            "trackUri": "spotify:track:4VtMwDx5OC0rjchZNxC7ox"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Chamber Of Reflection",
+            "artistName": "Mac DeMarco",
+            "albumName": "Salad Days",
+            "trackUri": "spotify:track:7H7NyZ3G075GqPx2evsfeb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Sweater Weather",
+            "artistName": "The Neighbourhood",
+            "albumName": "I Love You.",
+            "trackUri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Loosing Interest",
+            "artistName": "timmies",
+            "albumName": "Passion & Confusion",
+            "trackUri": "spotify:track:2DIFiLjzVxSUc7YY2k7WDA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Safe",
+            "artistName": "itssvd",
+            "albumName": "Safe",
+            "trackUri": "spotify:track:4AuLkMqJdyQyGeShCU5ik3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "I Need U",
+            "artistName": "yaeow",
+            "albumName": "Worn Out Heart",
+            "trackUri": "spotify:track:6tmZRSTEAW90RI8nXsly1f"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Tell Me Why I'm Waiting",
+            "artistName": "timmies",
+            "albumName": "Passion & Confusion",
+            "trackUri": "spotify:track:3xbUCRFut7tzBoD2F8L56y"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Sanctuary",
+            "artistName": "Joji",
+            "albumName": "Nectar",
+            "trackUri": "spotify:track:5F1ZmucV0uJY14y2dYKePa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "SLOW DANCING IN THE DARK",
+            "artistName": "Joji",
+            "albumName": "BALLADS 1",
+            "trackUri": "spotify:track:0rKtyWc8bvkriBthvHKY8d"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Glimpse of Us",
+            "artistName": "Joji",
+            "albumName": "SMITHEREENS",
+            "trackUri": "spotify:track:4ewazQLXFTDC8XvCbhvtXs"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Something About You",
+            "artistName": "Eyedress",
+            "albumName": "Mulholland Drive",
+            "trackUri": "spotify:track:6RiiSy9GzSwiyDEJDiMuKe"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Jealous",
+            "artistName": "Eyedress",
+            "albumName": "Jealous",
+            "trackUri": "spotify:track:1aXV8GrmQLvgoFtBPERP7E"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Space Song",
+            "artistName": "Beach House",
+            "albumName": "Depression Cherry",
+            "trackUri": "spotify:track:1ZgMsA55GIY7ICkQh5MILA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Aglow",
+            "artistName": "The Rare Occasions",
+            "albumName": "Aglow",
+            "trackUri": "spotify:track:5YICiSTdTX0y9wwA7CuNYh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Origami",
+            "artistName": "The Rare Occasions",
+            "albumName": "Big Whoop",
+            "trackUri": "spotify:track:3qpyxgH65qNhJ9hLS2gWrS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Notion",
+            "artistName": "The Rare Occasions",
+            "albumName": "Notion",
+            "trackUri": "spotify:track:0sTlGEld0h8kIPZaKDYUf4"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "WASTE",
+            "artistName": "KXLLSWXTCH",
+            "albumName": "DISORDER",
+            "trackUri": "spotify:track:4NgherJDfCXWBZBYheM4jK"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Past Lives",
+            "artistName": "Martin Arteta",
+            "albumName": "Past Lives",
+            "trackUri": "spotify:track:3YaRY9vbpnggTArCdGVXnS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-10"
+        },
+        {
+          "track": {
+            "trackName": "snowfall",
+            "artistName": "Øneheart",
+            "albumName": "snowfall",
+            "trackUri": "spotify:track:4xF4ZBGPZKxECeDFrqSAG4"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-10"
+        },
+        {
+          "track": {
+            "trackName": "Young",
+            "artistName": "Vacations",
+            "albumName": "Vibes",
+            "trackUri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-10"
+        },
+        {
+          "track": {
+            "trackName": "Romantic Homicide",
+            "artistName": "d4vd",
+            "albumName": "Romantic Homicide",
+            "trackUri": "spotify:track:1xK59OXxi2TAAAbmZK0kBL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-22"
+        },
+        {
+          "track": {
+            "trackName": "Here With Me",
+            "artistName": "d4vd",
+            "albumName": "Here With Me",
+            "trackUri": "spotify:track:78Sw5GDo6AlGwTwanjXbGh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-28"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Samo gas",
+      "lastModifiedDate": "2025-01-02",
+      "items": [
+        {
+          "track": {
+            "trackName": "La La La",
+            "artistName": "Voyage",
+            "albumName": "La La La",
+            "trackUri": "spotify:track:0VqzNpw7km3IPqq3O21VXj"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Bella Hadid",
+            "artistName": "Voyage",
+            "albumName": "Bella Hadid",
+            "trackUri": "spotify:track:1eaHfyG1Su9pusvFHLmf5i"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Omadjijala",
+            "artistName": "Devito",
+            "albumName": "Omadjijala",
+            "trackUri": "spotify:track:0pLLkPMTi2LkTWTUE6rcIg"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Martini",
+            "artistName": "Henny",
+            "albumName": "Martini",
+            "trackUri": "spotify:track:7BcS0fJ1kMdP4XD2su51gs"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Crno Oko",
+            "artistName": "Nucci",
+            "albumName": "Crno Oko",
+            "trackUri": "spotify:track:6CfCeWvsy7TpO6Oo8pJ2qN"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Bebo 2",
+            "artistName": "Nucci",
+            "albumName": "Bebo 2",
+            "trackUri": "spotify:track:0NEAumZ5N4txVLU1REBnnX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Balkan",
+            "artistName": "Voyage",
+            "albumName": "Balkan",
+            "trackUri": "spotify:track:4xQ1DPOz1Zi1h8lMRoajd5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Automatti",
+            "artistName": "Nucci",
+            "albumName": "Automatti",
+            "trackUri": "spotify:track:2qNhNNk9EymM2BSVZmvGAH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Zovite Doktore",
+            "artistName": "Relja",
+            "albumName": "Zovite Doktore",
+            "trackUri": "spotify:track:7H0iSWyOdHwDZwqUAt0PlR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Seceru",
+            "artistName": "Milica Pavlović",
+            "albumName": "Posesivna",
+            "trackUri": "spotify:track:4V8cqXh8KP3ncxH20Cvzgo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Izvini mama",
+            "artistName": "Corona",
+            "albumName": "Izvini mama",
+            "trackUri": "spotify:track:5aZ6k5lGRwqkd91yqhcYTy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Dzek I Dzoni",
+            "artistName": "Connect",
+            "albumName": "Dzek I Dzoni",
+            "trackUri": "spotify:track:0vgAHLpor6YvoO7jiSffFB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Marina",
+            "artistName": "Devito",
+            "albumName": "Marina",
+            "trackUri": "spotify:track:7KKNrjeKHv2tITzR3K9kKq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Kalasi",
+            "artistName": "Zera",
+            "albumName": "Kalasi",
+            "trackUri": "spotify:track:5XbNh16tvkeNEjuvSuB46Q"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Baraba",
+            "artistName": "Zera",
+            "albumName": "Baraba",
+            "trackUri": "spotify:track:3x1QAjweRjtfcLewe6XpRJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "La Miami",
+            "artistName": "MC Stojan",
+            "albumName": "La Miami",
+            "trackUri": "spotify:track:6ume0pmcM1duqQvjgqfzvO"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Habibi",
+            "artistName": "Pajak",
+            "albumName": "Habibi",
+            "trackUri": "spotify:track:19hiLgilGYdmgYkoHHAaGU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Da da da",
+            "artistName": "INAS",
+            "albumName": "Da da da",
+            "trackUri": "spotify:track:63aJweipVQUUYIz1H4lWYZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Bibi",
+            "artistName": "Nucci",
+            "albumName": "Bibi",
+            "trackUri": "spotify:track:5J7p9ibVs4qlTXtaECRKTU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "S.O.S.",
+            "artistName": "Jala Brat",
+            "albumName": "S.O.S.",
+            "trackUri": "spotify:track:7zATY9hK0qeqkE4Gu357M5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-17"
+        },
+        {
+          "track": {
+            "trackName": "Drift",
+            "artistName": "Breskvica",
+            "albumName": "Drift",
+            "trackUri": "spotify:track:4i2wva3Mp2t80kzRG0IIbe"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-29"
+        },
+        {
+          "track": {
+            "trackName": "Mamma Mia",
+            "artistName": "Grše",
+            "albumName": "Mamma Mia",
+            "trackUri": "spotify:track:4Dh7x7tg8W2J9tQWbRJZfj"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-25"
+        },
+        {
+          "track": {
+            "trackName": "Tu Tu Tu",
+            "artistName": "Devito",
+            "albumName": "Plava Krv",
+            "trackUri": "spotify:track:3ODuBRmxpX0XsZVJ0EcYvq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-05"
+        },
+        {
+          "track": {
+            "trackName": "Karneval",
+            "artistName": "Sajfer",
+            "albumName": "Karneval",
+            "trackUri": "spotify:track:3nANSPdGPDTIHwsjUEGLQt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-12"
+        },
+        {
+          "track": {
+            "trackName": "Ona'e",
+            "artistName": "Jala Brat",
+            "albumName": "Alfa & Omega",
+            "trackUri": "spotify:track:3eohASCbotGVSsLNlulEgE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-14"
+        },
+        {
+          "track": {
+            "trackName": "Fatalna",
+            "artistName": "Relja",
+            "albumName": "Fatalna",
+            "trackUri": "spotify:track:2w2sZkklTXEYWPQNC1WNsh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-18"
+        },
+        {
+          "track": {
+            "trackName": "Karneval II",
+            "artistName": "Sajfer",
+            "albumName": "Karneval II",
+            "trackUri": "spotify:track:5ujllgmrssanhprcU50yFk"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-18"
+        },
+        {
+          "track": {
+            "trackName": "Padam",
+            "artistName": "Jala Brat",
+            "albumName": "Padam",
+            "trackUri": "spotify:track:74kvy2LMpWYaK99CxlK7fQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-19"
+        },
+        {
+          "track": {
+            "trackName": "Divljam",
+            "artistName": "Buba Corelli",
+            "albumName": "Divljam",
+            "trackUri": "spotify:track:67AGHO9KaQySJowvCeaKtL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-19"
+        },
+        {
+          "track": {
+            "trackName": "Désolé",
+            "artistName": "Jala Brat",
+            "albumName": "Désolé",
+            "trackUri": "spotify:track:6MplUVBjXpfr5YQEow6H7K"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-19"
+        },
+        {
+          "track": {
+            "trackName": "Garava",
+            "artistName": "Devito",
+            "albumName": "Plava Krv",
+            "trackUri": "spotify:track:15ocbYIQVuxXpfyxTC6dX4"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-19"
+        },
+        {
+          "track": {
+            "trackName": "Haos, Lom",
+            "artistName": "Relja Torinno",
+            "albumName": "Haos, Lom",
+            "trackUri": "spotify:track:7jdOjDce8AyiQYwloerF4l"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-28"
+        },
+        {
+          "track": {
+            "trackName": "Rolex",
+            "artistName": "Devito",
+            "albumName": "Plava Krv",
+            "trackUri": "spotify:track:07HejRpXQzYNDc99RT7lNV"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-08-05"
+        },
+        {
+          "track": {
+            "trackName": "Genge",
+            "artistName": "Relja",
+            "albumName": "Genge",
+            "trackUri": "spotify:track:7bJULfXCq9DQ9pzj23tVci"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-08-06"
+        },
+        {
+          "track": {
+            "trackName": "Irina Shayk",
+            "artistName": "Buba Corelli",
+            "albumName": "Irina Shayk",
+            "trackUri": "spotify:track:2VxJbKWCcw2jTfhkCckeU3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-08-06"
+        },
+        {
+          "track": {
+            "trackName": "Djerdan",
+            "artistName": "Sanja Vucic",
+            "albumName": "Djerdan",
+            "trackUri": "spotify:track:33GkULD2Yc7Xs0p8u0Gtuy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-08-06"
+        },
+        {
+          "track": {
+            "trackName": "Dale",
+            "artistName": "Jala Brat",
+            "albumName": "GoodFellas",
+            "trackUri": "spotify:track:1R5HyvjZaaf0IP6FspsJZd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-07"
+        },
+        {
+          "track": {
+            "trackName": "Euforija",
+            "artistName": "Rasta",
+            "albumName": "Euforija",
+            "trackUri": "spotify:track:0euc88HCDsmrg4tbF8wWZZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-09"
+        },
+        {
+          "track": {
+            "trackName": "Madrina",
+            "artistName": "INAS",
+            "albumName": "Madrina",
+            "trackUri": "spotify:track:5XLyfM7A73e2Md5O8SoSCc"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-12"
+        },
+        {
+          "track": {
+            "trackName": "Balenciaga",
+            "artistName": "Buba Corelli",
+            "albumName": "Balenciaga",
+            "trackUri": "spotify:track:1RjAbZPKPAulS8WsEE5CIA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-17"
+        },
+        {
+          "track": {
+            "trackName": "Biseri Iz Blata",
+            "artistName": "Coby",
+            "albumName": "Biseri Iz Blata",
+            "trackUri": "spotify:track:2Asu007ZFDVVa01eU20PWS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-22"
+        },
+        {
+          "track": {
+            "trackName": "Moja braća",
+            "artistName": "Coby",
+            "albumName": "Moja braća",
+            "trackUri": "spotify:track:1GdisIb4Yg2sErkpKGrSSR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-23"
+        },
+        {
+          "track": {
+            "trackName": "Ko to tamo",
+            "artistName": "Henny",
+            "albumName": "Ko to tamo",
+            "trackUri": "spotify:track:4y2ByRvvOFdctOilj4Qpvn"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-23"
+        },
+        {
+          "track": {
+            "trackName": "Galerija",
+            "artistName": "Corona",
+            "albumName": "Galerija",
+            "trackUri": "spotify:track:2quVH9y7BW6NOIt0CzDZZY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-23"
+        },
+        {
+          "track": {
+            "trackName": "Ola Ola",
+            "artistName": "Relja",
+            "albumName": "Ola Ola",
+            "trackUri": "spotify:track:6MpdPdBn2lFxSpk5705S3U"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-23"
+        },
+        {
+          "track": {
+            "trackName": "Svemir",
+            "artistName": "Devito",
+            "albumName": "Plava Krv",
+            "trackUri": "spotify:track:6iDzGswRLIYd5ffyFKbYk5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-23"
+        },
+        {
+          "track": {
+            "trackName": "100%",
+            "artistName": "Senidah",
+            "albumName": "100%",
+            "trackUri": "spotify:track:5cbC79O7LuxezuLZQOIouq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-23"
+        },
+        {
+          "track": {
+            "trackName": "SIP",
+            "artistName": "Grše",
+            "albumName": "SIP",
+            "trackUri": "spotify:track:1JgBu6fPEGTPlqtuppJbym"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-23"
+        },
+        {
+          "track": {
+            "trackName": "PSH PSH",
+            "artistName": "Elena",
+            "albumName": "PSH PSH",
+            "trackUri": "spotify:track:6UaVbBmkMaptGvqOQkJHip"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-23"
+        },
+        {
+          "track": {
+            "trackName": "Iz Subote u Petak",
+            "artistName": "Zera",
+            "albumName": "Iz Subote u Petak",
+            "trackUri": "spotify:track:4Segw2g5T1JQUwb2FxAW2R"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-26"
+        },
+        {
+          "track": {
+            "trackName": "Da li si me",
+            "artistName": "Jala Brat",
+            "albumName": "Da li si me",
+            "trackUri": "spotify:track:3rkDyeXleIal9wnXPOlfhq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-26"
+        },
+        {
+          "track": {
+            "trackName": "Geto Djevojka - Prod. by Rasta",
+            "artistName": "Connect",
+            "albumName": "Geto Djevojka",
+            "trackUri": "spotify:track:3unwGYv4WCR7XxhAcYavMj"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-09-26"
+        },
+        {
+          "track": {
+            "trackName": "McLaren",
+            "artistName": "Hiljson Mandela",
+            "albumName": "Mandela Effect",
+            "trackUri": "spotify:track:7dqGvXaf1IWQiG9Jo2iIWO"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-10-20"
+        },
+        {
+          "track": {
+            "trackName": "Opasno",
+            "artistName": "Buba Corelli",
+            "albumName": "Opasno",
+            "trackUri": "spotify:track:50o3XgbQ4cD3oXenssbAlf"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-12-08"
+        },
+        {
+          "track": {
+            "trackName": "Jao Mama",
+            "artistName": "Rouzi",
+            "albumName": "Jao Mama",
+            "trackUri": "spotify:track:5xE4kZr7OgQaOMNJRuKudr"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-12-30"
+        },
+        {
+          "track": {
+            "trackName": "Ruzmarin",
+            "artistName": "Sanja Vucic",
+            "albumName": "Remek-Delo",
+            "trackUri": "spotify:track:1DSaCvCVaInmJbfVckQHcE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-12-30"
+        },
+        {
+          "track": {
+            "trackName": "Mišići",
+            "artistName": "Senidah",
+            "albumName": "Mišići",
+            "trackUri": "spotify:track:3wAbGoPmwSflsNuLJFUkty"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-12-31"
+        },
+        {
+          "track": {
+            "trackName": "Svrati",
+            "artistName": "Voyage",
+            "albumName": "Svrati",
+            "trackUri": "spotify:track:08rt3TFraJ3bckggouDUap"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-12-31"
+        },
+        {
+          "track": {
+            "trackName": "Fantazija",
+            "artistName": "Grše",
+            "albumName": "Fantazija",
+            "trackUri": "spotify:track:1wRvvl4diSD8ajCDHWnn1c"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-02-15"
+        },
+        {
+          "track": {
+            "trackName": "Droga Amsterdam",
+            "artistName": "Cunami Flo",
+            "albumName": "Droga Amsterdam",
+            "trackUri": "spotify:track:2s8VuTfG7JEEvwuzRPBxv8"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-02-16"
+        },
+        {
+          "track": {
+            "trackName": "Frauen",
+            "artistName": "Nucci",
+            "albumName": "Frauen",
+            "trackUri": "spotify:track:35q7gneOs0HIia7NvOrOuK"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Highlife",
+            "artistName": "Grše",
+            "albumName": "Platinum",
+            "trackUri": "spotify:track:0fB3ZWRh9FEQqDP7712iMi"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-02-21"
+        },
+        {
+          "track": {
+            "trackName": "Monster",
+            "artistName": "Jala Brat",
+            "albumName": "Goat Season (Part One)",
+            "trackUri": "spotify:track:0mFGvdKGNLjklJN6ManyT6"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-06-08"
+        },
+        {
+          "track": {
+            "trackName": "Forza",
+            "artistName": "Grše",
+            "albumName": "Forza",
+            "trackUri": "spotify:track:48VOBBuSuChKwYX4m3lpNK"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-09"
+        },
+        {
+          "track": {
+            "trackName": "Mangio Pasta",
+            "artistName": "Peki",
+            "albumName": "Fortuna",
+            "trackUri": "spotify:track:51oT6N6dMwTnBfhpmIAsb1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-09"
+        },
+        {
+          "track": {
+            "trackName": "Tokyo Drift",
+            "artistName": "Grše",
+            "albumName": "Tokyo Drift",
+            "trackUri": "spotify:track:1uK6VHQ62lURzYwmouwTsb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-09"
+        },
+        {
+          "track": {
+            "trackName": "BeBo 4",
+            "artistName": "Nucci",
+            "albumName": "BeBo 4",
+            "trackUri": "spotify:track:2aRmsEOjDqMJS46qlTfVZy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "VVS",
+            "artistName": "Voyage",
+            "albumName": "VVS",
+            "trackUri": "spotify:track:0C9VuvC4tp5qZp48i5p3fG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Localo",
+            "artistName": "Nucci",
+            "albumName": "Localo",
+            "trackUri": "spotify:track:5w4SD8yKp2GerHGWkh3lLL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Vroom",
+            "artistName": "Nucci",
+            "albumName": "Vroom",
+            "trackUri": "spotify:track:1XCqwPBWkIfrW77ratp3JW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Rajske kise",
+            "artistName": "Nucci",
+            "albumName": "Rajske kise",
+            "trackUri": "spotify:track:31EIzRV2HqVDQttJ6oeQLh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Gad",
+            "artistName": "Voyage",
+            "albumName": "Gad",
+            "trackUri": "spotify:track:02eHtj2HTytLQLNkMZGDwp"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Hugo",
+            "artistName": "TRILE",
+            "albumName": "Hugo",
+            "trackUri": "spotify:track:5r59vI0ko7mKHwm7O8OdlO"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Problema",
+            "artistName": "Relja Torinno",
+            "albumName": "Problema",
+            "trackUri": "spotify:track:3xKEk8YipGVuUh6L3hPHQq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "7ICE",
+            "artistName": "Sajfer",
+            "albumName": "Anima",
+            "trackUri": "spotify:track:24d9kXjRxojPfChpiq3PPi"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Divljam",
+            "artistName": "Buba Corelli",
+            "albumName": "Divljam",
+            "trackUri": "spotify:track:211ft1xB4otw2exxNTwU9z"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Do gole koze",
+            "artistName": "Breskvica",
+            "albumName": "Do gole koze",
+            "trackUri": "spotify:track:6qm1cLe9ty7EYR22kZXBfN"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Auslander",
+            "artistName": "Gazda Paja",
+            "albumName": "Auslander",
+            "trackUri": "spotify:track:6vpOQzPRiYBXv5z2p3rzB0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Udji na wa",
+            "artistName": "Nucci",
+            "albumName": "Udji na wa",
+            "trackUri": "spotify:track:3oG0jzj3Bd0TKbv2tvk85r"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Rosalia",
+            "artistName": "Jala Brat",
+            "albumName": "Goat Season (Part One)",
+            "trackUri": "spotify:track:2JhOOBiJ6fCmddZw9mluLf"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Zove Vienna",
+            "artistName": "Jala Brat",
+            "albumName": "99",
+            "trackUri": "spotify:track:5KY7sWaytowgxrK3E09vlm"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Droga Roterdam",
+            "artistName": "Seksi",
+            "albumName": "Geto Varijante",
+            "trackUri": "spotify:track:7f1KLbepqmhSllSEaQJFEf"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Capcarap",
+            "artistName": "Cunami Flo",
+            "albumName": "Capcarap",
+            "trackUri": "spotify:track:2cr3rABwRxoNwe8mHrYc97"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Svemir",
+            "artistName": "Devito",
+            "albumName": "Plava Krv",
+            "trackUri": "spotify:track:6s53Ayo0yzScGG7yUjgODX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Nyokosuzi",
+            "artistName": "INAS",
+            "albumName": "Nyokosuzi",
+            "trackUri": "spotify:track:3PtuYF4T12cJZFkXrV0pRX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Garava",
+            "artistName": "Devito",
+            "albumName": "Plava Krv",
+            "trackUri": "spotify:track:2BK4KVtMi3ZWeiWkxFO6wU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Mafia",
+            "artistName": "Voyage",
+            "albumName": "Mafia",
+            "trackUri": "spotify:track:0wBPpEOnh21hOEkk7URrhe"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-10"
+        },
+        {
+          "track": {
+            "trackName": "Zivot Skup",
+            "artistName": "Cvija",
+            "albumName": "Zivot Skup",
+            "trackUri": "spotify:track:0y3r9KnkJTruoZbhCa86ac"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-16"
+        },
+        {
+          "track": {
+            "trackName": "Bez Koda",
+            "artistName": "Jala Brat",
+            "albumName": "Goat Season (Part Two)",
+            "trackUri": "spotify:track:2r0IKugQJEqaCrLF8lfeWv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-19"
+        },
+        {
+          "track": {
+            "trackName": "OMB",
+            "artistName": "Relja",
+            "albumName": "Stroberi",
+            "trackUri": "spotify:track:4wVJN9mdb5GU5cFKXTdzNy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-20"
+        },
+        {
+          "track": {
+            "trackName": "Munja",
+            "artistName": "Jala Brat",
+            "albumName": "Goat Season (Part Two)",
+            "trackUri": "spotify:track:0odwP0JOvkwQfIGCrONRYX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-20"
+        },
+        {
+          "track": {
+            "trackName": "Japan",
+            "artistName": "Jala Brat",
+            "albumName": "Goat Season (Part Two)",
+            "trackUri": "spotify:track:7zFYA4zrybee2iFrFcOIDL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-20"
+        },
+        {
+          "track": {
+            "trackName": "Hollywood",
+            "artistName": "Jala Brat",
+            "albumName": "Goat Season (Part Two)",
+            "trackUri": "spotify:track:0GB040UIkhZnCPbnoW4IZ1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-20"
+        },
+        {
+          "track": {
+            "trackName": "Iluzija",
+            "artistName": "Miach",
+            "albumName": "Iluzija",
+            "trackUri": "spotify:track:6xDeCldJASAyXdBARZG2Dm"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-09-08"
+        },
+        {
+          "track": {
+            "trackName": "Led",
+            "artistName": "Miach",
+            "albumName": "Insomnia",
+            "trackUri": "spotify:track:0qfXdlT31rZqueog9ztqZu"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-09-08"
+        },
+        {
+          "track": {
+            "trackName": "Metak",
+            "artistName": "Severina",
+            "albumName": "Sorry",
+            "trackUri": "spotify:track:40Bfn2EKZtFs6i2tDsxFGE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-09-13"
+        },
+        {
+          "track": {
+            "trackName": "Med",
+            "artistName": "Sajfer",
+            "albumName": "Med",
+            "trackUri": "spotify:track:08M78BOjlsnTNbaF30YD0L"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-09-13"
+        },
+        {
+          "track": {
+            "trackName": "Karamela",
+            "artistName": "Jala Brat",
+            "albumName": "Karamela",
+            "trackUri": "spotify:track:1O5LUsjRmIW7G3JtiE3OUM"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-09-15"
+        },
+        {
+          "track": {
+            "trackName": "Zapali Grad",
+            "artistName": "Elitni Odredi",
+            "albumName": "4 Hits",
+            "trackUri": "spotify:track:6ggYO56LgJb7o2sMtpfSqt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-09-15"
+        },
+        {
+          "track": {
+            "trackName": "HI HI - HA HA",
+            "artistName": "Nucci",
+            "albumName": "HI HI - HA HA",
+            "trackUri": "spotify:track:4RttvrC9RYOxunRvkl9ttJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-03"
+        },
+        {
+          "track": {
+            "trackName": "Bajadeira",
+            "artistName": "Peki",
+            "albumName": "Fortuna",
+            "trackUri": "spotify:track:1fgFqrOIQcjWZqbgKM8pSU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-03"
+        },
+        {
+          "track": {
+            "trackName": "Marakesh",
+            "artistName": "Jala Brat",
+            "albumName": "GoodFellas",
+            "trackUri": "spotify:track:1vvujQbNlS7jKcyYvBrGXC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-12"
+        },
+        {
+          "track": {
+            "trackName": "Ne Koci",
+            "artistName": "Elitni Odredi",
+            "albumName": "4 Hits",
+            "trackUri": "spotify:track:54WBj5pDvnqrI5EeRRkQGH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-12"
+        },
+        {
+          "track": {
+            "trackName": "Hajde",
+            "artistName": "Tea Tairovic",
+            "albumName": "Hajde",
+            "trackUri": "spotify:track:7MqNf7NFLzgjUsJ2NYJCar"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-15"
+        },
+        {
+          "track": {
+            "trackName": "NLO",
+            "artistName": "Miach",
+            "albumName": "NLO",
+            "trackUri": "spotify:track:2Nq7HuAfHzY2p5z1i0wSM3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-20"
+        },
+        {
+          "track": {
+            "trackName": "Anđeo - From \"Sram\"",
+            "artistName": "Miach",
+            "albumName": "Anđeo",
+            "trackUri": "spotify:track:4w6fEGrluheE0MtiPUe0hJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-20"
+        },
+        {
+          "track": {
+            "trackName": "Kamagra",
+            "artistName": "Sajfer",
+            "albumName": "Anima",
+            "trackUri": "spotify:track:5oyXaaBP27PpiVK2cVEFZC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-20"
+        },
+        {
+          "track": {
+            "trackName": "Audi TT",
+            "artistName": "Nucci",
+            "albumName": "ZAMENA ZA BOL",
+            "trackUri": "spotify:track:05AJx9lFvMu12GhcLdwIvH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-24"
+        },
+        {
+          "track": {
+            "trackName": "Marija",
+            "artistName": "Nucci",
+            "albumName": "ZAMENA ZA BOL",
+            "trackUri": "spotify:track:6j1pCohYyDycXrw5uGOG1f"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-24"
+        },
+        {
+          "track": {
+            "trackName": "Voice",
+            "artistName": "Nucci",
+            "albumName": "ZAMENA ZA BOL",
+            "trackUri": "spotify:track:2GNyzATJg1w34nxRhpqbIh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-26"
+        },
+        {
+          "track": {
+            "trackName": "Noc",
+            "artistName": "Jala Brat",
+            "albumName": "Futura",
+            "trackUri": "spotify:track:5BW7fpOkb6h8ZjPqxhk2Ay"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-04"
+        },
+        {
+          "track": {
+            "trackName": "Ganga i Rera",
+            "artistName": "Peki",
+            "albumName": "Fortuna",
+            "trackUri": "spotify:track:4UFOvkWQltmc8NbvdpMiYH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-11"
+        },
+        {
+          "track": {
+            "trackName": "BASS",
+            "artistName": "Jala Brat",
+            "albumName": "Goat Season: Final Chapter",
+            "trackUri": "spotify:track:1JhXoWSOSzuDuHRnWdGfLw"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-17"
+        },
+        {
+          "track": {
+            "trackName": "SEXDRIVE",
+            "artistName": "Jala Brat",
+            "albumName": "Goat Season: Final Chapter",
+            "trackUri": "spotify:track:5qwCq6zWTjElpCmfcc0JBU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-17"
+        },
+        {
+          "track": {
+            "trackName": "Ceo Svet",
+            "artistName": "Nucci",
+            "albumName": "ZAMENA ZA BOL",
+            "trackUri": "spotify:track:7gSnyyOKI9ovzcxWnKlxF4"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-19"
+        },
+        {
+          "track": {
+            "trackName": "Adrenalin",
+            "artistName": "30Zona",
+            "albumName": "ZVUK TRI NULE",
+            "trackUri": "spotify:track:50CmUsOi25h1lgYL6qVkCo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-26"
+        },
+        {
+          "track": {
+            "trackName": "Tempo",
+            "artistName": "Miach",
+            "albumName": "Insomnia",
+            "trackUri": "spotify:track:6mC8DtRigkkpuMtVkp3nYU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-26"
+        },
+        {
+          "track": {
+            "trackName": "Preko Linije",
+            "artistName": "Nucci",
+            "albumName": "ZAMENA ZA BOL",
+            "trackUri": "spotify:track:3jPniSBrB2ysKz3e9oUzAa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-01-02"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 2
+    },
+    {
+      "name": "Vibe",
+      "lastModifiedDate": "2024-08-08",
+      "items": [
+        {
+          "track": {
+            "trackName": "0% Angel",
+            "artistName": "Mr.Kitty",
+            "albumName": "Ephemeral",
+            "trackUri": "spotify:track:0l2Ob0zMIQ21gJn642HyQ1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "#BrooklynBloodPop!",
+            "artistName": "SyKo",
+            "albumName": "#BrooklynBloodPop!",
+            "trackUri": "spotify:track:7K9Z3yFNNLv5kwTjQYGjnu"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "After Dark",
+            "artistName": "Mr.Kitty",
+            "albumName": "Time",
+            "trackUri": "spotify:track:0zCgWGmDF0aih5qexATyBn"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Royalty",
+            "artistName": "Egzod",
+            "albumName": "Royalty",
+            "trackUri": "spotify:track:7kUljt0NM5sISL3OGNVxYd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Aurora XV 54",
+            "artistName": "Trailer Bros",
+            "albumName": "Brass Beast (Soundtrack For Trailers)",
+            "trackUri": "spotify:track:0wQrhKDKQI57HjnsChDz2R"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "The remedy slowed",
+            "artistName": "Lil mavi",
+            "albumName": "The remedy slowed",
+            "trackUri": "spotify:track:6iNC5M0biYzIWyUClwkJaF"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "In Your Arms",
+            "artistName": "Mr.Kitty",
+            "albumName": "Ephemeral",
+            "trackUri": "spotify:track:30EldS3xSf98r4S6BOf7ZP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "In This Shirt",
+            "artistName": "The Irrepressibles",
+            "albumName": "Mirror Mirror",
+            "trackUri": "spotify:track:14QX1ckbDIhqetvu5VZ3cP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "snowfall",
+            "artistName": "Øneheart",
+            "albumName": "snowfall",
+            "trackUri": "spotify:track:4xF4ZBGPZKxECeDFrqSAG4"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "The Perfect Girl - The Motion Retrowave Remix",
+            "artistName": "Mareux",
+            "albumName": "The Perfect Girl",
+            "trackUri": "spotify:track:1UcyzhmBDfdw07DiuT7DEG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Ton1ght (ft. j4m & luvdes) - Remix",
+            "artistName": "Exøtix",
+            "albumName": "Ton1ght (ft. j4m & luvdes)",
+            "trackUri": "spotify:track:2R4BJYXGx2LAde4A6Poj6G"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Past Lives",
+            "artistName": "Martin Arteta",
+            "albumName": "Past Lives",
+            "trackUri": "spotify:track:3YaRY9vbpnggTArCdGVXnS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Neglect",
+            "artistName": "Mr.Kitty",
+            "albumName": "Time",
+            "trackUri": "spotify:track:3aE27Z5DDaeTcBQjTnsUMo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Space Song",
+            "artistName": "Beach House",
+            "albumName": "Depression Cherry",
+            "trackUri": "spotify:track:1ZgMsA55GIY7ICkQh5MILA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "Jealous",
+            "artistName": "Eyedress",
+            "albumName": "Jealous",
+            "trackUri": "spotify:track:1aXV8GrmQLvgoFtBPERP7E"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-18"
+        },
+        {
+          "track": {
+            "trackName": "after dark x sweater weather",
+            "artistName": "really sad music",
+            "albumName": "after dark x sweater weather",
+            "trackUri": "spotify:track:4sGPzDEbvgrtBePr2cPWiv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "Little Dark Age",
+            "artistName": "MGMT",
+            "albumName": "Little Dark Age",
+            "trackUri": "spotify:track:2Y0iGXY6m6immVb2ktbseM"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-16"
+        },
+        {
+          "track": {
+            "trackName": "The Perfect Girl",
+            "artistName": "Mareux",
+            "albumName": "The Perfect Girl",
+            "trackUri": "spotify:track:5RBOcBpJXaNnHCGViJmYhh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-21"
+        },
+        {
+          "track": {
+            "trackName": "bando - sped up + reverb",
+            "artistName": "bbygirl",
+            "albumName": "bando - sped up + reverb",
+            "trackUri": "spotify:track:0vj557R3WYe42bgzHdgNoE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-12"
+        },
+        {
+          "track": {
+            "trackName": "Life Is Pointless",
+            "artistName": "ilyTOMMY",
+            "albumName": "Life Is Pointless",
+            "trackUri": "spotify:track:3O16Y8Mx7Q3Ngq5wmi1st5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-25"
+        },
+        {
+          "track": {
+            "trackName": "Forever",
+            "artistName": "ilyTOMMY",
+            "albumName": "Forever",
+            "trackUri": "spotify:track:7uHRKSQ9WIlBBuBY7BHcbq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-25"
+        },
+        {
+          "track": {
+            "trackName": "room",
+            "artistName": "IVOXYGEN",
+            "albumName": "room",
+            "trackUri": "spotify:track:0lSj0NVDG8UzdSzyhEs8vP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-25"
+        },
+        {
+          "track": {
+            "trackName": "Relax",
+            "artistName": "Vacations",
+            "albumName": "Vibes",
+            "trackUri": "spotify:track:5TuTHrKzN6NweeQaKkBNb7"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-25"
+        },
+        {
+          "track": {
+            "trackName": "You and I",
+            "artistName": "d4vd",
+            "albumName": "You and I",
+            "trackUri": "spotify:track:1MRnyqgA3P1T5Dw72lfZLm"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-25"
+        },
+        {
+          "track": {
+            "trackName": "Romantic Homicide",
+            "artistName": "d4vd",
+            "albumName": "Romantic Homicide",
+            "trackUri": "spotify:track:1xK59OXxi2TAAAbmZK0kBL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-25"
+        },
+        {
+          "track": {
+            "trackName": "Chamber Of Reflection",
+            "artistName": "Mac DeMarco",
+            "albumName": "Salad Days",
+            "trackUri": "spotify:track:7H7NyZ3G075GqPx2evsfeb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-11"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Phonk",
+      "lastModifiedDate": "2024-01-24",
+      "items": [
+        {
+          "track": {
+            "trackName": "NEON BLADE",
+            "artistName": "MoonDeity",
+            "albumName": "NEON BLADE",
+            "trackUri": "spotify:track:0iUrxveyNUBfj0cqjYEijt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "BLOWIN'",
+            "artistName": "KXNVRA",
+            "albumName": "BLOWIN'",
+            "trackUri": "spotify:track:6q2t8Vd7YbylBWcdl0FLBz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "End of the World",
+            "artistName": "FORGOTTENAGE",
+            "albumName": "End of the World",
+            "trackUri": "spotify:track:0rRJNSrFPmOPZJRmdQbciH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Murder In My Mind",
+            "artistName": "Kordhell",
+            "albumName": "Murder In My Mind",
+            "trackUri": "spotify:track:6qyS9qBy0mEk3qYaH8mPss"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "AVOID ME",
+            "artistName": "KUTE",
+            "albumName": "AVOID ME",
+            "trackUri": "spotify:track:5FX30idriKlEIRYTxpNf65"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Phonky Town",
+            "artistName": "PlayaPhonk",
+            "albumName": "Phonky Town",
+            "trackUri": "spotify:track:5mnpMkzp3Z2RCCbwIEZCbv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "RAVE",
+            "artistName": "Dxrk ダーク",
+            "albumName": "RAVE",
+            "trackUri": "spotify:track:01kfSdF9zfcDLri5sSWEoL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "OVERDO$E",
+            "artistName": "Pharmacist",
+            "albumName": "OVERDO$E",
+            "trackUri": "spotify:track:2QUAM6GL6MpxUgMg50VUWG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Close Eyes",
+            "artistName": "DVRST",
+            "albumName": "Close Eyes",
+            "trackUri": "spotify:track:3CLSHJv5aUROAN2vfOyCOh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "KILLKA",
+            "artistName": "Ghostface Playa",
+            "albumName": "FROM THE NORTH",
+            "trackUri": "spotify:track:3SQV31uJMStclklmwxQHe1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Why Not",
+            "artistName": "Ghostface Playa",
+            "albumName": "Why Not",
+            "trackUri": "spotify:track:4oMyggIzClkOcCTvotFLkP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Swaggin' at the Partment",
+            "artistName": "Ghostface Playa",
+            "albumName": "High As Fuck",
+            "trackUri": "spotify:track:0eCwAiq4qzQJJgQVaqUaCN"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "WRATH",
+            "artistName": "Phonkha",
+            "albumName": "WRATH",
+            "trackUri": "spotify:track:6jGPrEdJuBOcDfu1Qriu2h"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "I Don't Give a Fuck",
+            "artistName": "Ghostface Playa",
+            "albumName": "Cruisin’ Down Da Block",
+            "trackUri": "spotify:track:1LaMTILNmivxzqujxB4dlh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Dope In My Fuckin' Head",
+            "artistName": "Ghostface Playa",
+            "albumName": "High As Fuck II",
+            "trackUri": "spotify:track:5CdPgVDSAUYEWQPoyuJ1dD"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Glock Cock",
+            "artistName": "Ghostface Playa",
+            "albumName": "High As Fuck",
+            "trackUri": "spotify:track:2bZLxGYMlqzBftZ2c6SbI5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Bullet in My Head",
+            "artistName": "Ghostface Playa",
+            "albumName": "Cruisin’ Down Da Block",
+            "trackUri": "spotify:track:1QunUah81Ja0Taxj7DcDXA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Graveyard",
+            "artistName": "Ghostface Playa",
+            "albumName": "Space Demon",
+            "trackUri": "spotify:track:55QYsPKN6YZ2SF4UNHbeJW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Shut the Fuck Up",
+            "artistName": "Ghostface Playa",
+            "albumName": "High As Fuck",
+            "trackUri": "spotify:track:2ghkR7cIQ4F2VK82qQ91Re"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Hope",
+            "artistName": "Ghostface Playa",
+            "albumName": "Hope",
+            "trackUri": "spotify:track:40EyaogmdQjcQlaXHtYBuA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "BUSTAS",
+            "artistName": "Dxrk ダーク",
+            "albumName": "BUSTAS",
+            "trackUri": "spotify:track:33ofAYT9QS9RO2tDxr9TPv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "MAKIN MOVES",
+            "artistName": "Pharmacist",
+            "albumName": "MAKIN MOVES",
+            "trackUri": "spotify:track:7AbesyN920ZAib2E7SxMTC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "BLOOD RACE",
+            "artistName": "Ghostface Playa",
+            "albumName": "BLOOD RACE",
+            "trackUri": "spotify:track:0D3SaRvnoMohXOEJ75GieD"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Jumpin' In Da Truck",
+            "artistName": "Ghostface Playa",
+            "albumName": "Loco Killas",
+            "trackUri": "spotify:track:2ijPvqzTcd1lxBgca2xo83"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "JUST DANCE",
+            "artistName": "Sinizter",
+            "albumName": "JUST DANCE",
+            "trackUri": "spotify:track:2GSUNdq88OmOQnWTO8yhe1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Everything Is Fine",
+            "artistName": "Ghostface Playa",
+            "albumName": "Space Demon",
+            "trackUri": "spotify:track:4SCyKJkiupSxzAGPvWqsCJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "North Memphis",
+            "artistName": "Pharmacist",
+            "albumName": "North Memphis",
+            "trackUri": "spotify:track:0SzDVyiiUDpuhzrphnoejr"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "DO OR DIE",
+            "artistName": "Dxrk ダーク",
+            "albumName": "DO OR DIE",
+            "trackUri": "spotify:track:02SKrZwDBb7qugvNZF5Xzr"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "BONES",
+            "artistName": "Dxrk ダーク",
+            "albumName": "BONES",
+            "trackUri": "spotify:track:3QslPNyh3s8UdAtNX3c2Fy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Phonk Web",
+            "artistName": "Dxrk ダーク",
+            "albumName": "Phonk Web",
+            "trackUri": "spotify:track:6KY3lpaxiNKaZwDJGix41g"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "AIRCRAFT",
+            "artistName": "Dxrk ダーク",
+            "albumName": "AIRCRAFT",
+            "trackUri": "spotify:track:6bJgpGMGgaLfsEE3v7j1ix"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "UNHOLY",
+            "artistName": "Dxrk ダーク",
+            "albumName": "UNHOLY",
+            "trackUri": "spotify:track:1WMuTWPq75xbMdoxcZU8lB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "CURSED",
+            "artistName": "MoonDeity",
+            "albumName": "CURSED",
+            "trackUri": "spotify:track:4Cl2yoVbGozFm97tBNgq0L"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "WARRIOR",
+            "artistName": "SHADXWBXRN",
+            "albumName": "WARRIOR",
+            "trackUri": "spotify:track:5AMRRp5Rjp1GQsF5ubsGl9"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "RAINSTORM",
+            "artistName": "Dxrk ダーク",
+            "albumName": "RAINSTORM",
+            "trackUri": "spotify:track:7EMIArigUvRFzwzAOOd8W3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Devil Ride",
+            "artistName": "RAIZHELL",
+            "albumName": "Devil Ride",
+            "trackUri": "spotify:track:1HR0lYFetVM22vVwRETZiF"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "CLOUD",
+            "artistName": "Dxrk ダーク",
+            "albumName": "Night Show",
+            "trackUri": "spotify:track:6ZbpaHInXckaSUDiGDCwHX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "SMOKE",
+            "artistName": "Luga",
+            "albumName": "SMOKE",
+            "trackUri": "spotify:track:4u4Qa4djX2oubvL1ObDKjg"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Cyanide",
+            "artistName": "Dxrk ダーク",
+            "albumName": "Cyanide",
+            "trackUri": "spotify:track:2FqBlSZxiRuxjgQcMvQAUP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Dead on Arrival",
+            "artistName": "KUTE",
+            "albumName": "Dead on Arrival",
+            "trackUri": "spotify:track:2wYJ7AszuzxSdb0yOjirKQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Dreamcore",
+            "artistName": "KUTE",
+            "albumName": "Dreamcore",
+            "trackUri": "spotify:track:0pKMzSojo6NFDnTYK0CXJa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Love Bound",
+            "artistName": "KUTE",
+            "albumName": "Love Bound",
+            "trackUri": "spotify:track:6SBvZsLtZY8oRwAvPfSRcc"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "NEVERMORE",
+            "artistName": "KUTE",
+            "albumName": "NEVERMORE",
+            "trackUri": "spotify:track:3ZwRGaOM3St3XWfviKnYlk"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "HYPERPHONK",
+            "artistName": "KUTE",
+            "albumName": "HYPERPHONK",
+            "trackUri": "spotify:track:0EHKqbbKApJZHPWfdQZIj3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Solace",
+            "artistName": "KUTE",
+            "albumName": "Solace",
+            "trackUri": "spotify:track:2Uluvfb9hmzJPXG1jMdln8"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "WAKE UP!",
+            "artistName": "MoonDeity",
+            "albumName": "WAKE UP!",
+            "trackUri": "spotify:track:4B8gtpBuEtU9XUizl6BK2W"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "GO!",
+            "artistName": "MoonDeity",
+            "albumName": "GO!",
+            "trackUri": "spotify:track:3Fmzn4AgdZ0owwgmomtY9l"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "MAGNUM OPU$",
+            "artistName": "EL$E",
+            "albumName": "MAGNUM OPU$",
+            "trackUri": "spotify:track:6xTLv1jodtGuUUIxtT1yYz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Limbo",
+            "artistName": "Freddie Dredd",
+            "albumName": "Freddie's Inferno",
+            "trackUri": "spotify:track:37F7E7BKEw2E4O2L7u0IEp"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "METAMORPHOSIS - Sped Up",
+            "artistName": "INTERWORLD",
+            "albumName": "METAMORPHOSIS",
+            "trackUri": "spotify:track:6MlIIJwO4FxnOlrpOrS4hU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Keraunos",
+            "artistName": "PlayaPhonk",
+            "albumName": "Keraunos",
+            "trackUri": "spotify:track:5ZKyj00XSlmEoKnDGH4JZa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Dream Space",
+            "artistName": "DVRST",
+            "albumName": "Dream Space",
+            "trackUri": "spotify:track:4wHkfOTO5XpTrVn1bHxR18"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "SHE IS HYPERACTIVE",
+            "artistName": "DVRST",
+            "albumName": "SHE IS HYPERACTIVE",
+            "trackUri": "spotify:track:4cx8mRVCvqGM5XiktQedCJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Endless Love",
+            "artistName": "DVRST",
+            "albumName": "Endless Love",
+            "trackUri": "spotify:track:49eccJME4fYJnOwCmJMXfV"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Autumn Wind",
+            "artistName": "DVRST",
+            "albumName": "Autumn Wind",
+            "trackUri": "spotify:track:0vwMdWKwS4mjeKiYvEq5Vc"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "I Hate You I Love You",
+            "artistName": "DVRST",
+            "albumName": "I Hate You I Love You",
+            "trackUri": "spotify:track:5KgBj14914cz5SirCMvbCm"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "I'M SORRY",
+            "artistName": "DVRST",
+            "albumName": "I'M SORRY",
+            "trackUri": "spotify:track:0K3JJbRm9y70tesc73U6bn"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "999",
+            "artistName": "PlayaPhonk",
+            "albumName": "999",
+            "trackUri": "spotify:track:7H3bV5VsjmGfXdZHRqxH89"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "THINKIN OF A DRIVE BY",
+            "artistName": "DVRST",
+            "albumName": "THINKIN OF A DRIVE BY",
+            "trackUri": "spotify:track:1SqMUyn5xMwVRfVzR9DSRs"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "FIGHT CLUB",
+            "artistName": "MoonDeity",
+            "albumName": "PHONK CLUB",
+            "trackUri": "spotify:track:2KOR0FNI6I9OgSH0w59oCI"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "GUS",
+            "artistName": "MoonDeity",
+            "albumName": "SIGMA",
+            "trackUri": "spotify:track:2DTql5d1eWbJcj5Y9WgJ3h"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "vendetta!",
+            "artistName": "MUPP",
+            "albumName": "vendetta!",
+            "trackUri": "spotify:track:5Sk39LuvdwuvL84jD01Dum"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "METAMORPHOSIS",
+            "artistName": "INTERWORLD",
+            "albumName": "METAMORPHOSIS",
+            "trackUri": "spotify:track:2ksyzVfU0WJoBpu8otr4pz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Live Another Day",
+            "artistName": "Kordhell",
+            "albumName": "Phonkageddon",
+            "trackUri": "spotify:track:34lfu3S4fIcKZRNXzbdbo7"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "LAND OF FIRE",
+            "artistName": "Kordhell",
+            "albumName": "LAND OF FIRE",
+            "trackUri": "spotify:track:4aYamw19Hloc6hQlJwWM1y"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "FATALITY",
+            "artistName": "Kordhell",
+            "albumName": "FATALITY",
+            "trackUri": "spotify:track:3DYy54rMUW2scr2IK8rckj"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Killers From The Northside",
+            "artistName": "Kordhell",
+            "albumName": "Killers From The Northside",
+            "trackUri": "spotify:track:7jT3LcNj4XPYOlbNkPWNhU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Darling",
+            "artistName": "DVRST",
+            "albumName": "Darling",
+            "trackUri": "spotify:track:1FXOYmutQtnP3Cm5vFlVyh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "DEMONS IN MY SOUL",
+            "artistName": "SCXR SOUL",
+            "albumName": "DEMONS IN MY SOUL",
+            "trackUri": "spotify:track:72iyEnh9p6PoyJoEnAJDjO"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
+            "artistName": "TWISTED",
+            "albumName": "WORTH NOTHING",
+            "trackUri": "spotify:track:5Zlb01Jcn0Ld49zazzZJSB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "MIDNIGHT",
+            "artistName": "PLAYAMANE",
+            "albumName": "MIDNIGHT",
+            "trackUri": "spotify:track:2WzAAerBvZvvFXgUpSwHZ9"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Disaster's End",
+            "artistName": "KSLV Noh",
+            "albumName": "Disaster's End",
+            "trackUri": "spotify:track:6QdHwnhlwUuJggJLMDoTMm"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Stay With Me",
+            "artistName": "1nonly",
+            "albumName": "Stay With Me",
+            "trackUri": "spotify:track:2WYs5LxOZfEyURXu7V0O1a"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "MUDD",
+            "artistName": "$werve",
+            "albumName": "MUDD",
+            "trackUri": "spotify:track:0MEMJNYVMS7TBNgFzV1aVN"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "SABOTAGE",
+            "artistName": "CURSEDEVIL",
+            "albumName": "SABOTAGE",
+            "trackUri": "spotify:track:5BdwfHeQUKIS4CNgEAqrWJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "PULL THE TRIGGER",
+            "artistName": "L19U1D",
+            "albumName": "PULL THE TRIGGER",
+            "trackUri": "spotify:track:12hr1uxSgarNFggq5EmDDv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "LAST BREATH",
+            "artistName": "chxsm",
+            "albumName": "LAST BREATH",
+            "trackUri": "spotify:track:1SpIAasqKIQSzWMIkGAQGX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "YUJIRO",
+            "artistName": "Panovski",
+            "albumName": "YUJIRO",
+            "trackUri": "spotify:track:74FoQNp0LAtfKTGQSnAwws"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Disaster",
+            "artistName": "KSLV Noh",
+            "albumName": "Disaster",
+            "trackUri": "spotify:track:0PGAJ37n4O2AslZosr1YGx"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "medusa!",
+            "artistName": "MUPP",
+            "albumName": "medusa!",
+            "trackUri": "spotify:track:0V1nzshK4HW8wSI8q2Nymz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "PRINCE OF DARKNESS",
+            "artistName": "SHADXWBXRN",
+            "albumName": "PRINCE OF DARKNESS",
+            "trackUri": "spotify:track:3F8ydJz1se1vIxZTRcRjIJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "GigaChad Theme - Phonk House Version",
+            "artistName": "g3ox_em",
+            "albumName": "GigaChad Theme",
+            "trackUri": "spotify:track:7mLWNwcvwRdEviz6SfYp8A"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "In a Hood Near You",
+            "artistName": "IGARASHI KANTA",
+            "albumName": "In a Hood Near You",
+            "trackUri": "spotify:track:3xLMFWoTmUzkaIEbnxKEpm"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-05"
+        },
+        {
+          "track": {
+            "trackName": "Shakira!",
+            "artistName": "1nonly",
+            "albumName": "Shakira!",
+            "trackUri": "spotify:track:1zCQXSnLkfXq3TzMLr6pWf"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-22"
+        },
+        {
+          "track": {
+            "trackName": "Glxck To My Back",
+            "artistName": "SVVIENTS",
+            "albumName": "Glxck To My Back",
+            "trackUri": "spotify:track:7D2NxA1MN5iLbA7xJap0SB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-22"
+        },
+        {
+          "track": {
+            "trackName": "ULTRAMARIN",
+            "artistName": "EL33N",
+            "albumName": "ULTRAMARIN",
+            "trackUri": "spotify:track:3M4hjtVC1Pd7NcQ96mLb5P"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-24"
+        },
+        {
+          "track": {
+            "trackName": "SHINE",
+            "artistName": "INTERWORLD",
+            "albumName": "SHINE",
+            "trackUri": "spotify:track:2WKgkGu2Ok10YRZiUrkEb5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-06"
+        },
+        {
+          "track": {
+            "trackName": "BREATHE",
+            "artistName": "yatashigang",
+            "albumName": "BREATHE",
+            "trackUri": "spotify:track:2qmn3UsrMtbt3orqjZSDVh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-16"
+        },
+        {
+          "track": {
+            "trackName": "Epiphany",
+            "artistName": "DVRST",
+            "albumName": "Epiphany",
+            "trackUri": "spotify:track:06KggdSVT9ZG0qXjKHkz3b"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-30"
+        },
+        {
+          "track": {
+            "trackName": "This Place is Near You",
+            "artistName": "DVRST",
+            "albumName": "This Place is Near You",
+            "trackUri": "spotify:track:4sxxMxdN9wlipDFFvy0BF3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-30"
+        },
+        {
+          "track": {
+            "trackName": "Destination",
+            "artistName": "VØJ",
+            "albumName": "Destination",
+            "trackUri": "spotify:track:4QQyXwqvTF9oByQlSmWhCc"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-08-13"
+        },
+        {
+          "track": {
+            "trackName": "Twilight",
+            "artistName": "GRAVECHILL",
+            "albumName": "Twilight",
+            "trackUri": "spotify:track:1Y5MJnYsIi3Qlifvss4jPI"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-08-13"
+        },
+        {
+          "track": {
+            "trackName": "GTG",
+            "artistName": "Freddie Dredd",
+            "albumName": "GTG",
+            "trackUri": "spotify:track:46M2hXnaQpueG7vSvgVtVH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-08-25"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
